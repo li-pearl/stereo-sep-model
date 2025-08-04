@@ -1,2 +1,2 @@
 # stereo-sep-model
-FSRI Research Project
+Caltech FSRI 2025 Research Project
